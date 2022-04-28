@@ -1,0 +1,55 @@
+* {
+
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(0, 0, 0);
+
+}
+
+
+
+.logo {
+
+    height: 130px;
+    width: auto;
+    margin-top: 1cm;
+
+}
+
+
+.Pic {
+
+    height: 750px;
+    width: auto;
+
+}
+
+
+.foot {
+
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    font-size: 0.7cm;
+
+}
+
+
+.Picfoot {
+
+    align: center;
+    width: auto;
+    height: 32px;
+
+}
+
+
+.Apple {
+
+    font-size: 0.8cm;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+
+}
